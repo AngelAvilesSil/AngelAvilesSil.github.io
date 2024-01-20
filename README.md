@@ -24,7 +24,7 @@ It simulates a social media web application, the computer that runs the contents
 - Phyton virtual environments.
 - Django database.
 - HTML, CSS, JavaScript with AJAX calls, JQuery, and JSON.
-- Handles unlimited GET and POST requests simultaneously making the DataBase Gow (up to server's capacity).
+- Handles unlimited GET and POST requests simultaneously making the DataBase Grow (up to server's capacity).
 
 Link: https://github.com/AngelAvilesSil/FullStackFrameworks 
 
@@ -38,4 +38,22 @@ This application handles internal databases, widget and the use of the telephone
 - Git integration
 
 Link: https://github.com/AngelAvilesSil/An-App-for-Partying-Hard
+
+## Videogames and simulations
+### Take a glimpse on my progress though learning Unity
+Video games is other of my passions; I am learning how to make them, this is what I have progressed so far
+
+Link: https://learn.unity.com/u/6459510fedbc2a1de35bca42?tab=profile 
+
+I will upload more projects while I am on it.
+
+### A junior level Unity project
+It sumulates a warehouse, the forklifts have pathfinding feature. It is focused mainly in data persistance.
+- C#
+- Unity 3D
+- JSON objects
+- Data persistance through scenes and instances
+- File I/O
+
+Link: https://github.com/AngelAvilesSil/Jr-Programmer-Project
 
